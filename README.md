@@ -64,5 +64,11 @@ Describe the main features of your project. For example:
   ```bash
   python manage.py runserver
 
+## 🔐 Login Details
+
+Username: admin
+Password: admin1234
+
+
    
 
