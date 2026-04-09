@@ -54,6 +54,8 @@ Linux
     ```bash
     python3 -m venv .venv
     source .venv/bin/activate
+    ```
+    
 Windows
    ```bash
      .venv\Scripts\activate
@@ -62,7 +64,7 @@ Windows
 5. Install dependencies
 
 ```bash
-       pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
 
 6. Run the application
