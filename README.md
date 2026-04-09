@@ -38,7 +38,7 @@ Describe the main features of your project. For example:
 
 ## 📥 Installation
 
-1. **Clone the repository**
+1. Clone the repository
 
    ```bash
    git clone https://github.com/mercy-gachoki10/Bidii-Group-A-project.git
@@ -49,24 +49,31 @@ Describe the main features of your project. For example:
      cd Bidii-Group-A-project
     
 4. Create and activate a virtual environment
-   
+Linux  
+
     ```bash
     python3 -m venv .venv
     source .venv/bin/activate
+Windows
+   ```bash
+     .venv\Scripts\activate
+   ```
 
 5. Install dependencies
 
-   ```bash
-   pip install -r requirements.txt
+```bash
+       pip install -r requirements.txt
+   ```
 
-6.Run the application
+6. Run the application
 
-  ```bash
-  python manage.py runserver
+```bash
+python manage.py runserver
+```
 
-## 🔐 Login Details
+7. Login Details
 
-Username: admin
+Username: admin  
 Password: admin1234
 
 
