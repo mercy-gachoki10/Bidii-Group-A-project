@@ -75,8 +75,10 @@ python manage.py runserver
 
 7. Login Details
 
-Username: admin  
-Password: admin1234
+   ```
+     Username: admin  
+     Password: admin1234
+   ```
 
 
    
